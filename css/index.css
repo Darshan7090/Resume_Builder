@@ -1,0 +1,96 @@
+
+
+.body{
+ background: #000;
+}
+
+.w3-center{
+    color: rgb(7, 34, 244);
+}
+.this{
+    color: #000;
+}
+
+#preview-button{
+    color: red;
+    background-color: #fff;
+    border-radius: 48%;
+    float: right;
+    margin-right: 20%;
+    border: 3px solid orangered;
+}
+#preview-button:hover{
+    opacity: 0.6;
+}
+
+.w3-padding {
+    justify-items: space-between; 
+    gap: 5px;
+    margin-left: 25px;
+    color: orangered;
+    font-weight: bold;
+    /* Adjust the value to control the gap between elements */
+  }
+
+  .preview{
+    float: right;
+    border-bottom: 25px;
+    border-radius: 8px;
+    padding: 8px;
+    color: chocolate;
+    font-size: 20px;
+    font-weight: 900;
+    box-shadow: 0px 0px 10px rgba(11, 3, 9, 2);
+  }
+  .title{
+    color: orangered;
+    background: #000;
+    font-weight: bold;
+  }
+  .w3-btn{
+    color: #fff;
+    background: orangered;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+  .w3-btn:hover{
+    opacity: 0.6;
+}
+.btn{
+ width: 100%;
+}
+
+h4{
+color: white;
+text-decoration: underline;
+}
+
+  
+
+.container {
+    background-color: silver;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(200, 200, 200, 1.82);
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+h3 {
+    text-align: center;
+    margin-bottom: 20px;
+    text-decoration: underline;
+}
+
+#fullname,#phone,
+#date,#email,
+#add,#add2,#add3,
+#ssc,#sscboard,
+#hsc,#hscboard,
+#degree,#degreeboard,
+#pg,#pgboard,
+#skills,#skills2,
+#skills3,#hobbies,
+#hobbies2,#hobbies3 {
+border: 2px solid #000;
+}
